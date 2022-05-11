@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:mohaned_assigment/e_commerce_assigment/login_page.dart';
 import 'package:mohaned_assigment/quiz/quiz_list_page.dart';
 
 
@@ -6,14 +7,17 @@ void main() => runApp(const MyApp());
 
 class MyApp extends StatelessWidget {
   const MyApp({Key? key}) : super(key: key);
+  static  GlobalKey<NavigatorState> navigatorKey = GlobalKey<NavigatorState>();
 
   @override
   Widget build(BuildContext context) {
     const appTitle = 'Software Engineering Department';
-    return const MaterialApp(
+    return  MaterialApp(
+      navigatorKey: navigatorKey,
       title: appTitle,
       debugShowCheckedModeBanner: false,
-      home: QuizListPage(),
+      home: const LoginPageView(),
+      // home: QuizListPage(),
       // Scaffold(
       //   resizeToAvoidBottomInset: false,
       //   appBar: AppBar(
