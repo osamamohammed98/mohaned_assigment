@@ -26,14 +26,15 @@ class HomePage extends GetWidget<AuthController> {
                       mainAxisAlignment: MainAxisAlignment.spaceBetween,
                       children: [
                         CustomIconBtn(
-                          color: Theme.of(context).backgroundColor,
+                          color: Colors.transparent,
                           onPressed: () {
                             authController.axisCount.value =
                                 authController.axisCount.value == 2 ? 4 : 2;
                           },
                           icon: Icon(authController.axisCount.value == 2
                               ? Icons.list
-                              : Icons.grid_on),
+                              : Icons.grid_on,
+                            color: Colors.transparent,),
                         ),
                         Text(
                           "Notes",
