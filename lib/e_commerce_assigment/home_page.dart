@@ -112,8 +112,8 @@ class Drawer extends StatelessWidget {
               // Update the state of the app
               // ...
               Navigator.pop(context);
-              MyApp.navigatorKey.currentState?.push(
-                  MaterialPageRoute(builder: (_) => SliderPageView()));
+              // MyApp.navigatorKey.currentState?.push(
+              //     MaterialPageRoute(builder: (_) => SliderPageView()));
             },
           ),
           ListTile(
@@ -123,8 +123,8 @@ class Drawer extends StatelessWidget {
               // ...
               // Then close the drawer
               Navigator.pop(context);
-              MyApp.navigatorKey.currentState?.push(
-                  MaterialPageRoute(builder: (_) => SliderPageView()));
+              // MyApp.navigatorKey.currentState?.push(
+              //     MaterialPageRoute(builder: (_) => SliderPageView()));
             },
           ),
           ListTile(
@@ -134,8 +134,8 @@ class Drawer extends StatelessWidget {
               // ...
               // Then close the drawer
               Navigator.pop(context);
-              MyApp.navigatorKey.currentState?.push(
-                  MaterialPageRoute(builder: (_) => SliderPageView()));
+              // MyApp.navigatorKey.currentState?.push(
+              //     MaterialPageRoute(builder: (_) => SliderPageView()));
             },
           ),
 
@@ -146,8 +146,8 @@ class Drawer extends StatelessWidget {
               // ...
               // Then close the drawer
               Navigator.pop(context);
-              MyApp.navigatorKey.currentState?.push(
-                  MaterialPageRoute(builder: (_) => SliderPageView()));
+              // MyApp.navigatorKey.currentState?.push(
+              //     MaterialPageRoute(builder: (_) => SliderPageView()));
 
             },
           ),

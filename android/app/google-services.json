@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "345768128553",
+    "firebase_url": "https://chat-fdb.firebaseio.com",
+    "project_id": "chat-fdb",
+    "storage_bucket": "chat-fdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345768128553:android:bcbc163aae9c2e77796c38",
+        "android_client_info": {
+          "package_name": "com.assigment.mohaned_assigmen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "345768128553-a16g7tcj1onufn5ou1eaosnutuddbnpp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3CT_sXu_MVZkD1LOyFz3PQkGFjC5pQ3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "345768128553-a16g7tcj1onufn5ou1eaosnutuddbnpp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345768128553:android:30bdbbb36eb7de02796c38",
+        "android_client_info": {
+          "package_name": "com.example.chatfdb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "345768128553-a16g7tcj1onufn5ou1eaosnutuddbnpp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3CT_sXu_MVZkD1LOyFz3PQkGFjC5pQ3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "345768128553-a16g7tcj1onufn5ou1eaosnutuddbnpp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345768128553:android:4c0f14078350d3b2796c38",
+        "android_client_info": {
+          "package_name": "com.example.chatify_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "345768128553-a16g7tcj1onufn5ou1eaosnutuddbnpp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3CT_sXu_MVZkD1LOyFz3PQkGFjC5pQ3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "345768128553-a16g7tcj1onufn5ou1eaosnutuddbnpp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,4 +1,4 @@
-package com.assigment.mohaned_assigment
+package com.assigment.mohaned_assigmen
 
 import io.flutter.embedding.android.FlutterActivity
 
